@@ -1,10 +1,10 @@
-import Cabecalho from './components/Cabecalho/Cabecalho';
-import Sobre from './components/Sobre/Sobre';
-import GaleriaDeFotos from './components/GaleriaDeFotos/GaleriaDeFotos';
-import Elenco from './components/Elenco/Elenco';
-import Titulos from './components/Titulos/Titulos.tsx';
-import Rodape from './components/Rodape/Rodape';
 import './App.css';
+import Cabecalho from './components/Cabecalho/Cabecalho';
+import Elenco from './components/Elenco';
+import Galeria from './components/GaleriaDeFotos';
+import Rodape from './components/Rodape';
+import Sobre from './components/Sobre';
+import Titulos from './components/Titulos';
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
       <Cabecalho />
       <main>
         <Sobre />
-        <GaleriaDeFotos />
+        <Galeria />
         <Elenco />
         <Titulos />
       </main>
