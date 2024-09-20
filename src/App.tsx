@@ -1,4 +1,3 @@
-import React from 'react';
 import Cabecalho from './components/Cabecalho/Cabecalho';
 import Sobre from './components/Sobre/Sobre';
 import GaleriaDeFotos from './components/GaleriaDeFotos/GaleriaDeFotos';
