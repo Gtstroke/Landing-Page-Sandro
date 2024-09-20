@@ -1,4 +1,3 @@
-import React from 'react';
 import './Sobre.css';
 import antigo from "../../assets/Flamengo-antigo.png"
 

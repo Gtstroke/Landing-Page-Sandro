@@ -1,5 +1,4 @@
-import React from 'react';
-import { Search, Facebook, Twitter, Instagram, Youtube } from 'lucide-react';
+import {  Facebook,  Instagram, Youtube } from 'lucide-react';
 import logo from "../../assets/flamengo-15.png";
 import './Cabecalho.css';
 

@@ -1,11 +1,11 @@
-import React from 'react';
+
 import './GaleriaDeFotos.css';
 import flamengo from "../../assets/baixados.jpg"
 import flamengo2 from "../../assets/gabigol-flamengo-gol-fluminense-copa-do-brasil-maracana.webp"
 import flamengo3 from "../../assets/image.png"
 import flamengo4 from "../../assets/images.jpg"
 import flamengo5 from "../../assets/mundial-81-flamengo.webp"
-import flamengo6 from "../../assets/zico-fla.webp"
+
 import flamengo7 from "../../assets/Flamengo 09132024.jpg"
 import flamengo8 from "../../assets/bandeira-flamengo.webp"
 import flamengo9 from "../../assets/timecomemora.jpg"

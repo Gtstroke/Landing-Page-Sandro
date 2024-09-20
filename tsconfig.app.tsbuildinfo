@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/cabecalho/cabecalho.tsx","./src/components/elenco/elenco.tsx","./src/components/galeriadefotos/galeriadefotos.tsx","./src/components/rodape/rodape.tsx","./src/components/sobre/sobre.tsx","./src/components/titulos/titulos.tsx"],"version":"5.6.2"}

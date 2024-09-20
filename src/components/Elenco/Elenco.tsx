@@ -1,4 +1,4 @@
-import React from 'react';
+
 import './Elenco.css';
 
 export default function Elenco() {
