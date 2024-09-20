@@ -3,7 +3,6 @@ import Sobre from './components/Sobre/Sobre';
 import GaleriaDeFotos from './components/GaleriaDeFotos/GaleriaDeFotos';
 import Elenco from './components/Elenco/Elenco';
 import Titulos from './components/Titulos/Titulos.tsx';
-// src/App.tsx
 import Rodape from './components/Rodape/Rodape';
 import './App.css';
 

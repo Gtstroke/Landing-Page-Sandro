@@ -1,4 +1,3 @@
-import React from 'react';
 import './Titulos.css';
 
 function Titulos() {
